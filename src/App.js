@@ -17,7 +17,7 @@ const App = () => {
       },
       {
         title: "Akash Gorkar | Portfolio",
-        description: "Welcome to my portfolio. Dive into a world of digital creations and explore the websites I've crafted.",
+        description: "Explore my portfolio. Dive into a world of digital creations and explore the websites I've crafted.",
       },
     ],
   };
@@ -33,7 +33,7 @@ const App = () => {
         <div className="body">
           <div className="about">
             <h3><u>Description about me:</u></h3>
-            <p>Hello,i am Akash Gorkar, an aspiring web developer.I just love learning new skills and spend most of my time in doing so. I am enjoying my journey as a python programmer. I enjoy playing badmiton while street photography being my hobby.I am a disciplined and focused person wanting to develop my coding skills and thus achive my goals.</p>
+            <p>Hello,i am Akash Gorkar, an aspiring web developer.I just love learning new skills and spend most of my time in doing so. I am enjoying my journey as a python programmer. I enjoy playing badminton while street photography being my hobby.I am a disciplined and focused person wanting to develop my coding skills and thus achive my goals.</p>
           </div>
           <div className="skills">
             <h3><u>Skills:</u></h3>
